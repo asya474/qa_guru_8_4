@@ -20,8 +20,6 @@ def test_submit_form(browser_open):
 #   browser.element('input#subjectsInput').type('Hello world').press_enter()
 # hobbies chexbox
 #    browser.element('input#hobbies-checkbox-1+.custom-control-label').click()
-# picture
-#    browser.element('#new-todo').type('b.').press_enter()
 # current address
 #    browser.element('[id="currentAddress"]').type('Hollywood').press_enter()
 # select state
